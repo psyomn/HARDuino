@@ -1,5 +1,5 @@
 /*
- @author TEAM 0xDEADBEEF
+ @author Team Bladerunners 
  This is a simple program which is supposed to represent numbers
  in binary. 8 bit intergers are represented via 8 LEDs.
 */
